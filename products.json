@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Electric Spin Scrubber",
+    "hook": "Stop breaking your back scrubbing the tub!",
+    "benefits": ["Cordless & Rechargeable", "4 Replaceable Brush Heads", "Powerful 300RPM"],
+    "category": "Home Essentials",
+    "price": 45.99,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-cleaning-a-bathroom-sink-with-a-brush-4481-large.mp4",
+    "amazonLink": "https://amazon.com",
+    "isTrending": true
+  },
+  {
+    "id": "2",
+    "title": "Magnetic Measuring Spoons",
+    "hook": "The last measuring spoons you will ever buy.",
+    "benefits": ["Double-sided design", "Magnetic nesting", "Stainless steel"],
+    "category": "Kitchen Essentials",
+    "price": 15.99,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?auto=format&fit=crop&q=80&w=800",
+    "amazonLink": "https://amazon.com",
+    "isBestSeller": true
+  }
+]
